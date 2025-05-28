@@ -1,0 +1,10 @@
+DF1 : Bus (ID)	        Bus (numéro)	        Etat	                        Ligne (ID)	        Ligne (nom court)	Code du sens	Destination	Coordonnées	Avance / Retard
+  
+DF2 :Station (ID)	Nom	Coordonnées	Etat	                        Dernière mise à jour	idLigne	                Stopid station gtfs/gtfs-rt	RouteId gtfs/gtfs-rt
+
+DF3 : ﻿Ligne (ID)	Ligne (nom court)	Date de début de validité	Résolution	        Image	                taille
+
+DF4 : Ligne (ID)	Ligne (nom court)	Code du sens	                Destination	        Point d'arrêt (ID)	Point d'arrêt (nom)	Coordonnées	Arrivée	Départ	Précision	idRame
+
+
+
