@@ -1,0 +1,6 @@
+Téléchargement :
+cd "C:\Programmes\PostgreSQL\16\bin"
+
+.\pg_dump.exe -U postgres -d olist_dwh -F c -f "C:\Users\imara\Downloads\TP\Projet\DWH.dump" 
+
+Chargement : 

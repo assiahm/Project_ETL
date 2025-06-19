@@ -1,0 +1,262 @@
+﻿Equipement (ID);Nom;Station (ID);Station (nom);Coordonnées;Etat;Dernière mise à jour;Identifiant de la Ligne de métro (linéo);type;typecourt
+ANF_DAT52002;Distributeur 2;15004;Anatole France;48.1181370954485, -1.68759952143562;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ANF_DAT52001;Distributeur 1;15004;Anatole France;48.1181370954485, -1.68759952143562;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ASC_ANF_2;Quai vers Kennedy <-> Salle des billets;15004;Anatole France;48.1181370954485, -1.68759952143562;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_ATA_1;Quai vers Viasilva <-> Extérieur;15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_ANF_1;Quai vers Kennedy <-> Salle des billets;15004;Anatole France;48.1181370954485, -1.68759952143562;En fonctionnement;2025-06-19T01:23:00+02:00;1001;Ascenseur;ASC
+ASC_ATA_2;Quai vers Gaîté <-> Extérieur;15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_BUN_1;Quai vers Viasilva <-> Salle des billets (extérieur);15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_ANF_3;Quai vers La Poterie <-> Salle des billets;15004;Anatole France;48.1181370954485, -1.68759952143562;En fonctionnement;2025-06-19T14:10:00+02:00;1001;Ascenseur;ASC
+ASC_BLO_2;Quai vers La Poterie <-> Extérieur;15014;Le Blosne;48.0877318776703, -1.65427829648798;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_BUN_2;Quai vers Gaîté <-> Salle des billets (extérieur);15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_ANF_4;Quai vers La Poterie <-> Salle des billets;15004;Anatole France;48.1181370954485, -1.68759952143562;En fonctionnement;2025-06-19T13:25:30+02:00;1001;Ascenseur;ASC
+ASC_CLE_1;Quai vers Viasilva <-> Salle des billets;15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_CLE_3;Salle des billets <-> Extérieur;15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_BLO_1;Quai vers Kennedy <-> Extérieur;15014;Le Blosne;48.0877318776703, -1.65427829648798;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_CLE_2;Quai vers Gaîté <-> Salle des billets;15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_COL_3;Salle des billets <-> Extérieur;15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_CDG_1;Quai vers Kennedy <-> Salle des billets;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_COL_1;Quai vers Viasilva <-> Salle des billets;15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_CVI_1;Quai vers Viasilva <-> Extérieur;15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_CDG_2;Quai vers La Poterie <-> Extérieur;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;En fonctionnement;2025-06-19T17:29:20+02:00;1001;Ascenseur;ASC
+ASC_GAR_1;Quai vers Kennedy <-> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_GAR_3;Salle des billets <-> Extérieur;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:21:50+02:00;1001;Ascenseur;ASC
+ASC_COL_2;Quai vers Gaîté <-> Salle des billets;15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_GAR_2;Quai vers La Poterie <-> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_GARB_1;Quai vers Viasilva <-> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_CVI_2;Quai vers Gaîté <-> Extérieur;15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_GARB_2;Quai vers Gaîté <-> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_GCH_1;Quai vers Viasilva <-> Salle des billets;15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_GARB_3;Salle des billets <-> Extérieur;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_GCL_2;Quai vers La Poterie <-> Salle des billets;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_GCH_2;Quai vers Gaîté <-> Salle des billets;15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_GCL_1;Quai vers Kennedy <-> Salle des billets;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_HFR_1;Quai vers Kennedy <-> Salle des billets;15011;Henri Fréville;48.0876790715209, -1.67481606100844;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_GCH_3;Salle des billets <-> Extérieur;15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_HFR_2;Quai vers La Poterie <-> Salle des billets;15011;Henri Fréville;48.0876790715209, -1.67481606100844;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_JCA_2;Quai vers Kennedy <-> Salle des billets;15009;Jacques Cartier;48.0975427301243, -1.67545156363566;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_GCL_3;Salle des billets <-> Extérieur;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_ITA_1;Quai vers Kennedy <-> Extérieur;15012;Italie;48.0865643803559, -1.66790001859795;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_MAB_2;Quai vers Gaîté <-> Salle des billets;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_IJC_1;Quai vers Viasilva <-> Extérieur;15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_ITA_2;Quai vers La Poterie <-> Extérieur;15012;Italie;48.0865643803559, -1.66790001859795;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_MAB_3;Salle des billets <-> Extérieur;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_IJC_2;Quai vers Gaîté <-> Extérieur;15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_JCA_4;Quai vers La Poterie <-> Salle des billets;15009;Jacques Cartier;48.0975427301243, -1.67545156363566;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_REP_2;Quai vers La Poterie <-> Extérieur;15006;République;48.1097592170185, -1.67918191615921;Indisponible;2025-06-18T12:24:20+02:00;1001;Ascenseur;ASC
+ASC_JCA_1;Quai vers Kennedy <-> Salle des billets;15009;Jacques Cartier;48.0975427301243, -1.67545156363566;En fonctionnement;2025-06-19T09:28:20+02:00;1001;Ascenseur;ASC
+ASC_LCO_1;Quai vers Viasilva <-> Salle des billets (extérieur);15063;La Courrouze;48.0965221738989, -1.69839938503331;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_SGE_1;Quai vers Viasilva <-> Salle des billets;15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_JCA_3;Quai vers La Poterie <-> Salle des billets;15009;Jacques Cartier;48.0975427301243, -1.67545156363566;En fonctionnement;2025-06-19T05:00:11+02:00;1001;Ascenseur;ASC
+ASC_LGA_1;Quai vers Viasilva <-> Salle des billets;15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_SJG_2;Quai vers Gaîté <-> Salle des billets;15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_JFE_1;Quai vers Viasilva <-> Salle des billets;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_LGA_3;Salle des billets <-> Extérieur;15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_SJG_4;Salle des billets <-> Extérieur (sortie Bd Jean Mermoz);15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_JFE_2;Quai vers Gaîté <-> Salle des billets;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_PON_1;Quai vers Kennedy <-> Extérieur;15003;Pontchaillou;48.1215567733982, -1.69339989615415;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_STA_2;Quai vers La Poterie <-> Extérieur;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T05:01:40+02:00;1001;Ascenseur;ASC
+ASC_JFE_3;Salle des billets <-> Extérieur;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_PON_2;Quai vers La Poterie <-> Extérieur;15003;Pontchaillou;48.1215567733982, -1.69339989615415;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_STAB_1;Quai vers Viasilva <-> Salle des billets;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_JFK_1;Quai vers Kennedy / La Poterie <-> Extérieur;15001;J.F. Kennedy;48.1212990676311, -1.71126078724885;Indisponible;2025-06-19T15:58:10+02:00;1001;Ascenseur;ASC
+ASC_POT_1;Quai vers Kennedy <-> Extérieur (sortie parc-relais);15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T08:04:30+02:00;1001;Ascenseur;ASC
+ASC_STAB_2;Quai vers Gaîté <-> Salle des billets;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_LCO_2;Quai vers Gaîté <-> Salle des billets (extérieur);15063;La Courrouze;48.0965221738989, -1.69839938503331;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_POT_3;Quai vers La Poterie <-> Extérieur (sortie parc-relais);15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T04:59:49+02:00;1001;Ascenseur;ASC
+ATA_DAT07004;Quai direction Gaîté (Droite);15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T08:16:54+02:00;1002;Distributeur de titres;DAT
+ASC_LGA_2;Quai vers Gaîté <-> Salle des billets;15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_POT_4;Quai vers La Poterie <-> Extérieur (sortie Hautes Ourmes);15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T04:59:50+02:00;1001;Ascenseur;ASC
+BLO_DAT57001;Distributeur 1;15014;Le Blosne;48.0877318776703, -1.65427829648798;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ASC_MAB_1;Quai vers Viasilva <-> Salle des billets;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_REP_1;Quai vers Kennedy <-> Extérieur;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T16:24:00+02:00;1001;Ascenseur;ASC
+BUN_DAT06501;Salle des billets coté direction Gaîté (Gauche);15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T06:44:24+02:00;1002;Distributeur de titres;DAT
+ASC_POT_2;Quai vers Kennedy <-> Extérieur (sortie Hautes Ourmes);15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T04:59:49+02:00;1001;Ascenseur;ASC
+ASC_SGE_2;Quai vers Gaîté <-> Salle des billets;15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+CDG_DAT53501;Distributeur 1;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ASC_SGE_3;Salle des billets <-> Extérieur (sortie place Saint Germain);15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_SJG_3;Salle des billets <-> Extérieur (sortie parc-relais);15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+CDG_DAT53502;Distributeur 2;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ASC_SGE_4;Salle des billets <-> Extérieur (sortie quai Chateaubriand);15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_STA_1;Quai vers Kennedy <-> Salle des billets;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T15:10:40+02:00;1001;Ascenseur;ASC
+CLE_DAT01502;Salle des billets (Droite);15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T02:05:29+02:00;1002;Distributeur de titres;DAT
+ASC_SJG_1;Quai vers Viasilva <-> Salle des billets;15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ASC_STAB_3;Salle des billets <-> Extérieur;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Ascenseur;ASC
+ESC_BUN_1;Extérieur -> Quai vers Viasilva;15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ASC_TRI_2;Quai vers La Poterie <-> Extérieur;15013;Triangle;48.0864371868635, -1.66035956927485;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_TRI_1;Quai vers Kennedy <-> Extérieur;15013;Triangle;48.0864371868635, -1.66035956927485;En fonctionnement;2025-06-19T17:04:20+02:00;1001;Ascenseur;ASC
+ESC_BUN_2;Extérieur -> Quai vers Gaîté;15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ASC_VU_2;Quai vers La Poterie <-> Extérieur;15002;Villejean-Université;48.1212406422311, -1.7039291787219;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ASC_VU_1;Quai vers Kennedy <-> Extérieur;15002;Villejean-Université;48.1212406422311, -1.7039291787219;En fonctionnement;2025-06-19T05:00:00+02:00;1001;Ascenseur;ASC
+ESC_CDG_2;Quai vers La Poterie -> Extérieur;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;Indisponible;2025-06-13T08:11:41+02:00;1001;Escalier mécanique;ESC
+ATA_DAT07002;Quai direction Viasilva (Droite);15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T06:17:34+02:00;1002;Distributeur de titres;DAT
+ATA_DAT07001;Quai direction Viasilva (Gauche);15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T06:19:44+02:00;1002;Distributeur de titres;DAT
+ESC_CLE_2;Quai vers Gaîté -> Salle des billets;15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ATA_DAT07003;Quai direction Gaîté (Gauche);15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T06:13:33+02:00;1002;Distributeur de titres;DAT
+BUN_DAT06502;Salle des billets coté direction Gaîté (Droite);15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T06:45:14+02:00;1002;Distributeur de titres;DAT
+ESC_CLE_3;Quais vers Viasilva et vers Gaîté -> Salle des billets;15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+BLO_DAT57002;Distributeur 2;15014;Le Blosne;48.0877318776703, -1.65427829648798;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+BUN_DAT06503;Salle des billets coté direction Viasilva (Gauche);15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T06:42:05+02:00;1002;Distributeur de titres;DAT
+ESC_CLE_4;Salle des billets -> Extérieur;15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+BUN_DAT06504;Salle des billets coté direction Viasilva (Droite);15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T06:42:54+02:00;1002;Distributeur de titres;DAT
+CDG_DAT53503;Distributeur 3;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ESC_COL_3;Quais vers Viasilva et vers Gaîté -> Salle des billets;15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+COL_DAT02501;Salle des billets (Gauche);15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T02:05:29+02:00;1002;Distributeur de titres;DAT
+CLE_DAT01501;Salle des billets (Gauche);15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T02:05:19+02:00;1002;Distributeur de titres;DAT
+ESC_COL_4;Salle des billets -> Extérieur;15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+COL_DAT02502;Salle des billets (Milieu);15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T02:05:19+02:00;1002;Distributeur de titres;DAT
+CVI_DAT07502;Quai direction Gaîté (Milieu);15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T06:03:24+02:00;1002;Distributeur de titres;DAT
+ESC_CVI_2;Quai vers Viasilva -> Extérieur;15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+COL_DAT02503;Salle des billets (Droite);15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T02:05:29+02:00;1002;Distributeur de titres;DAT
+CVI_DAT07503;Quai direction Gaîté (Droite);15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T06:04:54+02:00;1002;Distributeur de titres;DAT
+ESC_CVI_3;Extérieur -> Quai vers Gaîté;15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+CVI_DAT07501;Quai direction Gaîté (Gauche);15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T06:02:14+02:00;1002;Distributeur de titres;DAT
+ESC_ATA_1;Quai vers Viasilva -> Extérieur;15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_1;Quai vers Viasilva -> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_ATA_2;Quai vers Gaîté -> Extérieur;15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_ATA_3;Extérieur -> Quai vers Viasilva;15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_10;Gares ligne b -> Quai vers Kennedy (ligne a);15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_ATA_4;Extérieur -> Quai vers Gaîté;15051;Atalante;48.127146027774, -1.62802297006244;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_BUN_3;Quai vers Viasilva -> Extérieur;15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_12;Gares ligne b -> Quai vers La Poterie (ligne a);15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_COL_1;Quai vers Viasilva -> Extérieur;15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_BUN_4;Quai vers Gaîté -> Extérieur;15052;Beaulieu - Université;48.1221291972709, -1.63911623985879;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_3;Salle des billets -> Quai vers Viasilva;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_COL_2;Quai vers Gaîté -> Extérieur;15060;Colombier;48.1058903932463, -1.68215432052243;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_CDG_1;Quai vers Kennedy -> Extérieur;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;En fonctionnement;2025-06-19T16:36:00+02:00;1001;Escalier mécanique;ESC
+ESC_GARB_7;Quais vers Viasilva et vers Gaîté -> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GAR_2;Quai vers La Poterie -> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T07:47:30+02:00;1001;Escalier mécanique;ESC
+ESC_CDG_3;Salle des billets -> Quais vers La Poterie et vers Kennedy;15007;Charles de Gaulle;48.1054604488328, -1.67682850261658;En fonctionnement;2025-06-19T05:01:10+02:00;1001;Escalier mécanique;ESC
+ESC_GARB_8;Salle des billets -> Quais vers Viasilva et vers Gaîté;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_11;Quai vers La Poterie (ligne a) -> Gares ligne b;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_CLE_1;Quai vers Viasilva -> Salle des billets;15062;Cleunay;48.1010024445846, -1.70640767697345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_9;Quai vers Kennedy (ligne a) -> Gares ligne b;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_2;Quai vers Gaîté -> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_CVI_1;Extérieur -> Quai vers Gaîté;15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GCH_1;Quai vers Viasilva -> Salle des billets;15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_6;Quais vers Viasilva et vers Gaîté -> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_CVI_4;Quai vers Viasilva -> Extérieur;15050;Cesson - Viasilva;48.131492949592, -1.62006133587874;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GCL_2;Quai vers La Poterie -> Salle des billets;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T05:01:00+02:00;1001;Escalier mécanique;ESC
+ESC_GCH_4;Salle des billets -> Extérieur;15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GAR_1;Quai vers Kennedy -> Salle des billets;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T05:01:10+02:00;1001;Escalier mécanique;ESC
+ESC_GCL_3;Salle des billets -> Extérieur;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T05:01:10+02:00;1001;Escalier mécanique;ESC
+ESC_HFR_2;Quai vers La Poterie -> Extérieur;15011;Henri Fréville;48.0876790715209, -1.67481606100844;En fonctionnement;2025-06-19T05:08:20+02:00;1001;Escalier mécanique;ESC
+ESC_GAR_3;Salle des billets -> Quais vers La Poterie et vers Kennedy;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T05:01:10+02:00;1001;Escalier mécanique;ESC
+ESC_HFR_1;Quai vers Kennedy -> Extérieur;15011;Henri Fréville;48.0876790715209, -1.67481606100844;En fonctionnement;2025-06-19T05:08:20+02:00;1001;Escalier mécanique;ESC
+ESC_JFE_2;Salle des billets -> Quai vers Gaîté;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_4;Salle des billets -> Quai vers Gaîté;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_IJC_2;Quai vers Gaîté -> Extérieur;15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_JFE_5;Extérieur -> Salle des billets;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GARB_5;Salle des billets -> Quais vers Viasilva et vers Gaîté;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_JFE_3;Quai vers Viasilva -> Salle des billets;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_JFK_1;Quai vers Kennedy -> Extérieur;15001;J.F. Kennedy;48.1212990676311, -1.71126078724885;En fonctionnement;2025-06-19T05:01:10+02:00;1001;Escalier mécanique;ESC
+ESC_GCH_2;Quai vers Gaîté -> Salle des billets;15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_LCO_2;Quai vers Gaîté -> Extérieur;15063;La Courrouze;48.0965221738989, -1.69839938503331;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_LGA_1;Quai vers Viasilva -> Salle des billets;15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GCH_3;Quais vers Viasilva et vers Gaîté -> Salle des billets;15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_LGA_2;Quai vers Gaîté -> Salle des billets;15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_LGA_3;Salle des billets -> Extérieur;15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_GCL_1;Quai vers Kennedy -> Salle des billets;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T05:01:00+02:00;1001;Escalier mécanique;ESC
+ESC_PON_2;Extérieur -> Quai vers La Poterie;15003;Pontchaillou;48.1215567733982, -1.69339989615415;En fonctionnement;2025-06-19T05:01:10+02:00;1001;Escalier mécanique;ESC
+ESC_POT_2;Extérieur (côté Hautes Ourmes) -> Quai vers Kennedy;15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T15:49:00+02:00;1001;Escalier mécanique;ESC
+ESC_IJC_1;Quai vers Viasilva -> Extérieur;15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_POT_1;Extérieur (côté parc-relais) -> Quai vers Kennedy;15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T11:44:00+02:00;1001;Escalier mécanique;ESC
+ESC_REP_1;Quai vers Kennedy -> Extérieur;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T05:01:00+02:00;1001;Escalier mécanique;ESC
+ESC_ITA_1;Quai vers La Poterie -> Extérieur;15012;Italie;48.0865643803559, -1.66790001859795;En fonctionnement;2025-06-19T16:48:30+02:00;1001;Escalier mécanique;ESC
+ESC_REP_4;Extérieur -> Quai vers La Poterie;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T05:09:30+02:00;1001;Escalier mécanique;ESC
+ESC_REP_3;Quai vers La Poterie -> Extérieur;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T05:01:00+02:00;1001;Escalier mécanique;ESC
+ESC_JFE_1;Salle des billets -> Quai vers Viasilva;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_REP_6;Salle des billets -> Extérieur (sortie ouest);15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T05:01:20+02:00;1001;Escalier mécanique;ESC
+ESC_SGE_2;Quai vers Gaîté -> Salle des billets;15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_JFE_4;Quai vers Gaîté -> Salle des billets;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_SJG_1;Salle des billets -> Quai vers Viasilva;15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_SGE_3;Quais vers Viasilva et vers Gaîté -> Salle des billets;15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_JFE_6;Salle des billets -> Extérieur;15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_SJG_2;Quai vers Gaîté -> Salle des billets;15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_SJG_4;Salle des billets -> Extérieur (sortie Bd Jean Mermoz);15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_JFK_2;Salle des billets -> Extérieur;15001;J.F. Kennedy;48.1212990676311, -1.71126078724885;En fonctionnement;2025-06-19T16:52:20+02:00;1001;Escalier mécanique;ESC
+ESC_SJG_3;Salle des billets -> Extérieur (sortie parc-relais);15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_STA_2;Quai vers La Poterie -> Extérieur;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-03-31T09:30:57+02:00;1001;Escalier mécanique;ESC
+ESC_MAB_1;Quai vers Viasilva -> Salle des billets;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_STA_3;Salle des billets -> Quais vers La Poterie et vers Kennedy;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-03-29T12:47:31+01:00;1001;Escalier mécanique;ESC
+ESC_STA_4;Quais vers La Poterie et vers J.F Kennedy -> Salle des billets;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-04-17T19:58:36+02:00;1001;Escalier mécanique;ESC
+ESC_MAB_2;Quai vers Gaîté -> Salle des billets;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_STAB_1;Salle des billets -> Quai vers Viasilva;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_STAB_8;Salle des billets -> Extérieur (sortie Place St Anne);15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_MAB_3;Quais vers Viasilva et vers Gaîté -> Salle des billets;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_STAB_2;Salle des billets -> Quai vers Gaîté;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+GAR_DAT03102;Distributeur 2;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ESC_MAB_4;Extérieur -> Salle des billets;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_STAB_4;Quai vers Gaîté -> Salle des billets;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+GAR_DAT03106;Distributeur 6;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ESC_MAB_5;Salle des billets -> Extérieur;15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ESC_STAB_7;Salle des billets -> Extérieur (sortie côté agence);15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+GCH_DAT05001;Salle des billets (Gauche);15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T07:15:06+02:00;1002;Distributeur de titres;DAT
+ESC_PON_1;Extérieur -> Quai vers Kennedy;15003;Pontchaillou;48.1215567733982, -1.69339989615415;Indisponible;2025-06-02T15:26:46+02:00;1001;Escalier mécanique;ESC
+ESC_TRI_1;Quai vers La Poterie -> Extérieur;15013;Triangle;48.0864371868635, -1.66035956927485;En fonctionnement;2025-06-19T14:57:10+02:00;1001;Escalier mécanique;ESC
+HFR_DAT55501;Distributeur 1;15011;Henri Fréville;48.0876790715209, -1.67481606100844;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ESC_REP_2;Extérieur -> Quai vers Kennedy;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T05:09:20+02:00;1001;Escalier mécanique;ESC
+GAR_DAT03103;Distributeur 3;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+IJC_DAT06002;Quai direction Viasilva (Droite);15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T06:56:54+02:00;1002;Distributeur de titres;DAT
+ESC_REP_5;Salle des billets -> Extérieur (sortie est);15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T05:01:10+02:00;1001;Escalier mécanique;ESC
+GAR_DAT03104;Distributeur 4;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+IJC_DAT06004;Quai direction Gaîté (Droite);15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T06:53:34+02:00;1002;Distributeur de titres;DAT
+ESC_SGE_1;Quai vers Viasilva -> Salle des billets;15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+GAR_DAT03105;Distributeur 5;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ITA_DAT56001;Distributeur 1;15012;Italie;48.0865643803559, -1.66790001859795;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ESC_SGE_4;Salle des billets -> Extérieur;15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+GARB_DAT03002;Salle des billets (Droite);15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T15:29:42+02:00;1002;Distributeur de titres;DAT
+JCA_DAT54502;Distributeur 2;15009;Jacques Cartier;48.0975427301243, -1.67545156363566;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ESC_STA_1;Quai vers Kennedy -> Extérieur;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-03-27T07:55:51+01:00;1001;Escalier mécanique;ESC
+GCL_DAT55002;Distributeur 2;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+JFK_DAT50502;Distributeur 2;15001;J.F. Kennedy;48.1212990676311, -1.71126078724885;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+ESC_STA_5;Salle des billets -> Extérieur;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-18T15:59:20+02:00;1001;Escalier mécanique;ESC
+HFR_DAT55502;Distributeur 2;15011;Henri Fréville;48.0876790715209, -1.67481606100844;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+LCO_DAT01001;Quai direction Viasilva (Gauche);15063;La Courrouze;48.0965221738989, -1.69839938503331;En fonctionnement;2025-06-19T08:01:54+02:00;1002;Distributeur de titres;DAT
+ESC_STAB_3;Quai vers Viasilva -> Salle des billets;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+IJC_DAT06003;Quai direction Gaîté (Gauche);15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T06:52:34+02:00;1002;Distributeur de titres;DAT
+LGA_DAT05501;Salle des billets en surface (Gauche);15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T07:13:54+02:00;1002;Distributeur de titres;DAT
+ESC_STAB_5;Quais vers Viasilva et vers Gaîté -> Salle des billets;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+ITA_DAT56002;Distributeur 2;15012;Italie;48.0865643803559, -1.66790001859795;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+MAB_DAT02002;Salle des billets (Droite);15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T02:05:19+02:00;1002;Distributeur de titres;DAT
+ESC_STAB_6;Salle des billets -> Quais vers Viasilva et vers Gaîté;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:12+02:00;1002;Escalier mécanique;ESC
+JFE_DAT04501;Salle des billets (Gauche);15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T08:53:34+02:00;1002;Distributeur de titres;DAT
+PON_DAT51501;Distributeur 1;15003;Pontchaillou;48.1215567733982, -1.69339989615415;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+GAR_DAT03101;Distributeur 1;15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+JFE_DAT04502;Salle des billets (Milieu);15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T07:32:05+02:00;1002;Distributeur de titres;DAT
+POT_DAT57502;Distributeur 2;15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+GARB_DAT03001;Salle des billets (Gauche);15008;Gares;48.1038471114359, -1.67224485716552;En fonctionnement;2025-06-19T15:29:12+02:00;1002;Distributeur de titres;DAT
+JFE_DAT04503;Salle des billets (Droite);15056;Jules Ferry;48.1186594810628, -1.67076644276131;En fonctionnement;2025-06-19T07:23:24+02:00;1002;Distributeur de titres;DAT
+REP_DAT53002;Distributeur 2;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+GCH_DAT05002;Salle des billets (Droite);15055;Gros-Chêne;48.125093146655, -1.66446795130927;En fonctionnement;2025-06-19T07:13:54+02:00;1002;Distributeur de titres;DAT
+LCO_DAT01002;Quai direction Viasilva (Droit);15063;La Courrouze;48.0965221738989, -1.69839938503331;En fonctionnement;2025-06-19T08:01:05+02:00;1002;Distributeur de titres;DAT
+REP_DAT53003;Distributeur 3;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+GCL_DAT55001;Distributeur 1;15010;Clemenceau;48.093479686551, -1.67441842137121;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+MAB_DAT02001;Salle des billets (Gauche);15061;Mabilais;48.1050592898409, -1.6926513768705;En fonctionnement;2025-06-19T02:05:19+02:00;1002;Distributeur de titres;DAT
+SGE_DAT03501;Salle des billets coté direction Viasilva (Gauche);15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T07:38:24+02:00;1002;Distributeur de titres;DAT
+IJC_DAT06001;Quai direction Viasilva (Gauche);15053;Joliot-Curie - Chateaubriand;48.1241132803473, -1.65150172798943;En fonctionnement;2025-06-19T06:55:54+02:00;1002;Distributeur de titres;DAT
+POT_DAT57501;Distributeur 1;15015;La Poterie;48.0874903545205, -1.6445729730928;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+SGE_DAT03502;Salle des billets coté direction Viasilva (Droite);15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T07:36:54+02:00;1002;Distributeur de titres;DAT
+JCA_DAT54501;Distributeur 1;15009;Jacques Cartier;48.0975427301243, -1.67545156363566;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+REP_DAT53001;Distributeur 1;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+SGE_DAT03503;Salle des billets coté direction Gaîté (Gauche);15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T07:40:44+02:00;1002;Distributeur de titres;DAT
+JFK_DAT50501;Distributeur 1;15001;J.F. Kennedy;48.1212990676311, -1.71126078724885;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+STAB_DAT04002;Salle des billets (Milieu);15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T02:05:19+02:00;1002;Distributeur de titres;DAT
+SGE_DAT03504;Salle des billets coté direction Gaîté (Droite);15058;Saint-Germain;48.1106162622745, -1.67627275951495;En fonctionnement;2025-06-19T07:39:54+02:00;1002;Distributeur de titres;DAT
+LGA_DAT05502;Salle des billets en surface (Droite);15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T07:06:54+02:00;1002;Distributeur de titres;DAT
+TRI_DAT56502;Distributeur 2;15013;Triangle;48.0864371868635, -1.66035956927485;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+SJG_DAT00501;Salle des billets (Gauche);15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T08:09:05+02:00;1002;Distributeur de titres;DAT
+LGA_DAT05503;Salle des billets niveau -1;15054;Les Gayeulles;48.1293946374996, -1.65730026310517;En fonctionnement;2025-06-19T07:04:44+02:00;1002;Distributeur de titres;DAT
+VU_DAT51001;Distributeur 1;15002;Villejean-Université;48.1212406422311, -1.7039291787219;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+STA_DAT04101;Distributeur 1;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+PON_DAT51502;Distributeur 2;15003;Pontchaillou;48.1215567733982, -1.69339989615415;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+VU_DAT51002;Distributeur 2;15002;Villejean-Université;48.1212406422311, -1.7039291787219;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+STA_DAT04102;Distributeur 2;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+REP_DAT53004;Distributeur 4;15006;République;48.1097592170185, -1.67918191615921;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+TRI_DAT56501;Distributeur 1;15013;Triangle;48.0864371868635, -1.66035956927485;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+SJG_DAT00502;Salle des billets (Milieu);15064;Saint-Jacques - Gaîté;48.092046766998, -1.70362011945964;En fonctionnement;2025-06-19T14:47:32+02:00;1002;Distributeur de titres;DAT
+STA_DAT04103;Distributeur 3;15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+STAB_DAT04001;Salle des billets (Gauche);15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T02:05:29+02:00;1002;Distributeur de titres;DAT
+STAB_DAT04003;Salle des billets (Droite);15005;Sainte-Anne;48.1145246924753, -1.68050893960345;En fonctionnement;2025-06-19T02:05:29+02:00;1002;Distributeur de titres;DAT
+VU_DAT51003;Distributeur 3;15002;Villejean-Université;48.1212406422311, -1.7039291787219;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT
+VU_DAT51004;Distributeur 4;15002;Villejean-Université;48.1212406422311, -1.7039291787219;En fonctionnement;2025-06-19T17:49:10+02:00;1001;Distributeur de titres;DAT

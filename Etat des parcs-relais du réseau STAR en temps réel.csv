@@ -1,0 +1,9 @@
+﻿Parc-relais (ID);Nom;Coordonnées (Latitude, Longitude);Dernière mise à jour;Capacité totale du parc-relais;Etat ouverture;Etat remplissage;Capacité place soliste/ordinaire;Places disponibles soliste/ordinaire;Capacité place véhicule Elec;Places disponibles véhicules Elec;Capacité place covoiturage;Places disponibles covoiturage;Capacité place PMR;Places disponibles PMR;Information  ligne 1 du panneau d'affichage;Information  ligne 2 du panneau d'affichage;Nombre ascenseurs disponibles sur le parc relais;Nombre en service  sur le parc relais
+CVI;Cesson-Viasilva;48.13259, -1.620879;2025-06-19T17:49:10+02:00;794;OUVERT;LIBRE;781;227;0;0;0;176;10;10;OUVERT;;4;3
+HFR;Henri Fréville;48.087537, -1.674555;2025-06-19T17:49:10+02:00;388;OUVERT;LIBRE;377;150;0;0;0;0;8;5;OUVERT;;2;NA
+JFK;J.F. Kennedy;48.12108, -1.713631;2025-06-19T17:49:10+02:00;363;OUVERT;LIBRE;355;152;0;0;0;0;5;4;OUVERT;;3;NA
+LGA;Les Gayeulles;48.129565, -1.657108;2025-06-19T17:49:10+02:00;402;OUVERT;LIBRE;373;223;20;6;0;51;9;8;OUVERT;;2;2
+POT;La Poterie;48.08682, -1.64342;2025-06-19T17:49:10+02:00;676;OUVERT;LIBRE;640;253;19;12;0;0;7;6;OUVERT;;2;NA
+PRE;Les Préales;48.11356, -1.64025;2025-06-19T17:49:10+02:00;267;OUVERT;LIBRE;262;242;0;0;0;0;3;2;OUVERT;;0;NA
+SJG;Saint-Jacques - Gaîté;48.091038, -1.703637;2025-06-19T17:49:10+02:00;775;OUVERT;LIBRE;719;138;19;12;0;161;16;12;OUVERT;;3;3
+VU;Villejean-Université;48.121906, -1.704182;2025-06-19T17:49:10+02:00;387;OUVERT;LIBRE;374;99;0;0;0;0;10;7;OUVERT;;2;NA

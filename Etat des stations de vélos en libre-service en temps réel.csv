@@ -1,0 +1,58 @@
+﻿Station (ID);Nom;Coordonnées;Etat;Emplacements actuels;Emplacements disponibles;Vélos disponibles;Dernière mise à jour
+5505;Sainte-Anne;48.11421, -1.680461;En fonctionnement;23;17;6;2025-06-19T17:49:11+02:00
+5506;Hôtel Dieu;48.117596, -1.677849;En fonctionnement;23;13;10;2025-06-19T17:49:11+02:00
+5501;République;48.110026, -1.678037;En fonctionnement;45;42;3;2025-06-19T17:49:11+02:00
+5509;Saint-Georges Piscine;48.112385, -1.674417;En fonctionnement;17;5;12;2025-06-19T17:49:11+02:00
+5507;Jules Ferry;48.118172, -1.670735;En fonctionnement;30;27;3;2025-06-19T17:49:11+02:00
+5502;Mairie - Opéra;48.111624, -1.678757;En fonctionnement;23;17;6;2025-06-19T17:49:11+02:00
+5510;Musée Beaux-Arts;48.109601, -1.67408;En fonctionnement;16;12;4;2025-06-19T17:49:11+02:00
+5523;La Rotonde;48.106653, -1.68677;En fonctionnement;20;12;8;2025-06-19T17:49:11+02:00
+5504;Place Hoche;48.115074, -1.677073;En fonctionnement;36;33;3;2025-06-19T17:49:11+02:00
+5514;Bonnets Rouges;48.106846, -1.665814;En fonctionnement;21;21;0;2025-06-19T17:49:11+02:00
+5524;Place de Bretagne;48.1097, -1.684041;En fonctionnement;38;34;4;2025-06-19T17:49:11+02:00
+5512;TNB;48.107748, -1.673711;En panne;27;27;0;2025-06-19T17:49:11+02:00
+5517;Charles de Gaulle;48.105111, -1.677119;En fonctionnement;24;23;1;2025-06-19T17:49:11+02:00
+5527;Horizons;48.111564, -1.689656;En fonctionnement;24;19;5;2025-06-19T17:49:11+02:00
+5516;Champs Libres;48.105537, -1.674328;En fonctionnement;24;9;15;2025-06-19T17:49:11+02:00
+5519;Colombier;48.106103, -1.680594;En fonctionnement;24;7;17;2025-06-19T17:49:11+02:00
+5528;Chèques Postaux;48.108765, -1.693432;En fonctionnement;30;28;2;2025-06-19T17:49:11+02:00
+5526;Les Lices;48.112766, -1.685037;En panne;24;16;8;2025-06-19T17:49:11+02:00
+5520;Pont de Nantes;48.102015, -1.684015;En fonctionnement;20;16;4;2025-06-19T17:49:11+02:00
+5533;Anatole France;48.11817, -1.688466;En fonctionnement;27;26;1;2025-06-19T17:49:11+02:00
+5534;Brest Verdun;48.113009, -1.693264;En fonctionnement;24;15;9;2025-06-19T17:49:11+02:00
+5522;Oberthur;48.11355, -1.661853;En fonctionnement;30;23;7;2025-06-19T17:49:11+02:00
+5536;Paul Bert;48.110115, -1.670039;En fonctionnement;16;1;15;2025-06-19T17:49:11+02:00
+5535;Pont de Châteaudun;48.110264, -1.664443;En fonctionnement;20;10;10;2025-06-19T17:49:11+02:00
+5537;Auberge de Jeunesse;48.120876, -1.681876;En fonctionnement;29;17;12;2025-06-19T17:49:11+02:00
+5546;Plaine de Baud;48.112461, -1.643674;En fonctionnement;24;9;15;2025-06-19T17:49:11+02:00
+5538;Marbeuf;48.111825, -1.702375;En fonctionnement;20;6;14;2025-06-19T17:49:11+02:00
+5540;Croix Saint-Hélier;48.10305, -1.66209;En fonctionnement;20;7;13;2025-06-19T17:49:11+02:00
+5560;Cucillé - Frac;48.128788, -1.698129;En fonctionnement;25;22;3;2025-06-19T17:49:11+02:00
+5539;Pontchaillou;48.121481, -1.692737;En fonctionnement;28;16;12;2025-06-19T17:49:11+02:00
+5542;Robidou;48.109926, -1.659499;En fonctionnement;19;9;10;2025-06-19T17:49:11+02:00
+5561;Jacques Cartier;48.097505, -1.674834;En fonctionnement;24;14;10;2025-06-19T17:49:11+02:00
+5543;Cité Judiciaire;48.104771, -1.68411;En fonctionnement;24;6;18;2025-06-19T17:49:11+02:00
+5548;Beaulieu - Université;48.121906, -1.639783;En fonctionnement;30;13;17;2025-06-19T17:49:11+02:00
+5562;Clemenceau;48.093292, -1.674116;En fonctionnement;22;17;5;2025-06-19T17:49:11+02:00
+5544;Metz - Sévigné;48.115993, -1.658258;En fonctionnement;15;11;4;2025-06-19T17:49:11+02:00
+5566;Bréquigny Piscine;48.089978, -1.690244;En fonctionnement;24;18;6;2025-06-19T17:49:11+02:00
+5567;Binquenais;48.091594, -1.667321;En fonctionnement;16;9;7;2025-06-19T17:49:11+02:00
+5547;Beaulieu Chimie;48.116458, -1.633875;En fonctionnement;29;17;12;2025-06-19T17:49:11+02:00
+5569;Champs Manceaux;48.091114, -1.682284;En fonctionnement;18;15;3;2025-06-19T17:49:11+02:00
+5587;Pont de Strasbourg;48.109859, -1.656028;En fonctionnement;19;6;13;2025-06-19T17:49:11+02:00
+5552;Villejean-Université;48.121074, -1.70428;En fonctionnement;26;26;0;2025-06-19T17:49:11+02:00
+5580;Painlevé;48.123506, -1.659762;En fonctionnement;29;20;9;2025-06-19T17:49:11+02:00
+5590;Bourgeois;48.098086, -1.655278;En fonctionnement;24;23;1;2025-06-19T17:49:11+02:00
+5555;Département 35;48.128453, -1.694032;En fonctionnement;27;27;0;2025-06-19T17:49:11+02:00
+5582;La Poterie;48.087309, -1.643683;En fonctionnement;20;18;2;2025-06-19T17:49:11+02:00
+5592;Gares;48.10432, -1.673312;En fonctionnement;47;25;22;2025-06-19T17:49:11+02:00
+5556;Berger;48.116314, -1.705097;En fonctionnement;14;10;4;2025-06-19T17:49:11+02:00
+5585;La Courrouze;48.099043, -1.694512;En fonctionnement;20;10;10;2025-06-19T17:49:11+02:00
+5571;Sainte-Thérèse;48.094986, -1.663731;En fonctionnement;12;10;2;2025-06-19T17:49:11+02:00
+5586;Armorique;48.129949, -1.676161;En fonctionnement;24;18;6;2025-06-19T17:49:11+02:00
+5578;Gros-Chêne;48.125408, -1.664806;En fonctionnement;18;18;0;2025-06-19T17:49:11+02:00
+5588;Gare Sud Féval;48.102055, -1.673959;En fonctionnement;24;21;3;2025-06-19T17:49:11+02:00
+5579;Les Gayeulles;48.129464, -1.657272;En fonctionnement;30;30;0;2025-06-19T17:49:11+02:00
+5591;Mabilais;48.105086, -1.693069;En fonctionnement;25;18;7;2025-06-19T17:49:11+02:00
+5581;Joliot-Curie - Chateaubriand;48.124389, -1.651203;En fonctionnement;30;30;0;2025-06-19T17:49:11+02:00
+5589;Baud Chardonnet;48.10995, -1.647933;En fonctionnement;24;9;15;2025-06-19T17:49:11+02:00
